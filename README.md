@@ -25,7 +25,7 @@ Git (opcional)
 
 INSTALAÇÃO
 # Clone o repositório
-git clone https://github.com/seu-usuario/lista-compras-python.git
+git clone https://github.com/Ian-Akiles/lista-compras-python.git
 
 # Acesse a pasta do projeto
 cd lista-compras-python
